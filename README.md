@@ -9,5 +9,5 @@ This repository contains the solutions of problems and some round's
 
 ## Contributing
 
-Each contribution matters and you can visit this page for more details on [Contributing](https://github.com/shan7030/codeforces-problems/CONTRIBUTING.md)
+Each contribution matters and you can visit this page for more details on [Contributing](https://github.com/shan7030/codeforces-problems/blob/master/CONTRIBUTING.md)
  
